@@ -1,0 +1,114 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Time Table</title>
+</head>
+<style type="text/css">
+	.heading {
+	width: 100%; 
+	min-width: 1024px;
+	}
+
+	#institute {
+		text-transform: uppercase; 
+		text-decoration: underline;
+		text-align: center;
+		letter-spacing: 1.7px;
+	}
+
+	#bold {
+		font-weight: bold;
+	}
+
+	th, td {
+	    padding: 10px;
+	}
+
+	table, th, td {
+		border: 2px solid black;
+	    border-collapse: collapse;
+		text-align: center;
+	}
+</style>
+<body>
+<div class="heading">
+<h2 id="institute">Institute of Engineering<wbr> and Technology</h2>
+<h3 style="text-align: center; letter-spacing: 1.3px; line-height: 0%; font-weight: 600;">Information Technology</h3>
+<h3 style="text-align: center; letter-spacing: 1.4px;"><b>V<sup>th</sup> Semester Time Table (2017-2018)</b></h3>
+</div>
+
+<div class="timetable">
+	<table style="width: 100%; min-width: 1024px;">
+		<thead>
+			<tr>
+				<th>Day/<wbr>Period</th>
+				<th></th>
+				<th>Sem<wbr>ester</th>
+				<th>I<br>9:10-10:00</th>
+				<th>II<br>10:00-10:50</th>
+				<th>III<br>10:50-11:40</th>
+				<th>IV<br>11:40-12:30</th>
+				<th></th>
+				<th>V<br>2:00-2:50</th>
+				<th>VI<br>2:50-3:40</th>
+				<th>VII<br>3:40-4:30</th>
+			</tr>	
+		</thead>
+		<tbody>
+			<tr>
+				<td id="bold">M<br>O<br>N</td>
+				<td id="bold" rowspan="6">I<br>T</td>
+				<td id="bold" rowspan="6">V</td>
+				<td colspan="2">----------CS-501-----------<br><strong>CS-210</strong></td>
+				<td colspan="2">----------CS-503-----------<br><strong>CS-210</strong></td>
+				<td rowspan="6"></td>
+				<td colspan="2">-----------HU-501-----------<br><strong>CS-210</strong></td>
+				<td>-----xxxx-----</td>
+			</tr>
+			<tr>
+				<td id="bold">T<br>U<br>E</td>
+				<td>-----CS-503-----<br>(T1) <strong>CS-210</strong></td>
+				<td>-----CS-503-----<br><strong>CS-210</strong></td>
+				<td colspan="2">----------CS-504----------<br><strong>CS-210</strong></td>
+				<td colspan="3">--------------------CS-552--------------------</td>
+			</tr>
+			<tr>
+				<td id="bold">W<br>E<br>D</td>
+				<td>-----CS-504-----<br>(T1) <strong>CS-210</strong></td>
+				<td>-----CS-504-----<br><strong>CS-210</strong></td>
+				<td>-----CS-501-----<br><strong>CS-210</strong></td>
+				<td>-----CS-501-----<br>(T1) <strong>CS-210</strong></td>
+				<td>-----IT-501-----<br>(T2) <strong>CS-210</strong></td>
+				<td>-----xxxx-----</td>
+				<td>-----xxxx-----</td>
+			</tr>
+			<tr>
+				<td id="bold">T<br>H<br>U</td>
+				<td>-----CS-503-----<br>(T2) <strong>CS-210</strong></td>
+				<td>-----CS-502-----<br>(T2) <strong>CS-210</strong></td>
+				<td colspan="2">----------IT-501----------<br><strong>CS-210</strong></td>
+				<td colspan="3">--------------------CS-551--------------------</td>
+			</tr>
+			<tr>
+				<td id="bold">F<br>R<br>I</td>
+				<td colspan="2">----------CS-554-----------<br></td>
+				<td colspan="2">----------CS-553-----------<br></td>
+				<td>-----CS-504-----<br>(T1) <strong>LT-15</strong></td>
+				<td>-----CS-502-----<br><strong>LT-15</strong></td>
+				<td>-----CS-502-----<br>(T1) <strong>LT-15</strong></td>
+			</tr>
+			<tr>
+				<td id="bold">S<br>A<br>T</td>
+				<td colspan="2">----------CS-502-----------<br><strong>LT-24</strong></td>
+				<td>-----CS-501-----<br>(T2) <strong>LT-24</strong></td>
+				<td>-----IT-501-----<br>(T1) <strong>LT-24</strong></td>
+				<td>-----xxxx-----</td>
+				<td>-----xxxx-----</td>
+				<td>-----xxxx-----</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+</body>
+</html>
