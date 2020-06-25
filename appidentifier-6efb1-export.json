@@ -1,0 +1,1654 @@
+{
+  "allAppData" : {
+    "anybooks_book_pdf_epub_txt" : {
+      "a" : "anybooks.book.pdf.epub.txt",
+      "b" : "AnyBooks",
+      "c" : "United Kingdom"
+    },
+    "be_aromen_app" : {
+      "a" : "be.aromen.app",
+      "b" : "Aromen App",
+      "c" : "NA"
+    },
+    "club_fromfactory" : {
+      "a" : "club.fromfactory",
+      "b" : "Club Factory",
+      "c" : "NA"
+    },
+    "cn_wps_moffice_eng" : {
+      "a" : "cn.wps.moffice_eng",
+      "b" : "WPS Office",
+      "c" : "CHINA"
+    },
+    "com_Dominos" : {
+      "a" : "com.Dominos",
+      "b" : "Domino's",
+      "c" : "NA"
+    },
+    "com_File_Manager_Filemanager" : {
+      "a" : "com.File.Manager.Filemanager",
+      "b" : "File Manager",
+      "c" : "NA"
+    },
+    "com_Slack" : {
+      "a" : "com.Slack",
+      "b" : "Slack",
+      "c" : "US"
+    },
+    "com_Splitwise_SplitwiseMobile" : {
+      "a" : "com.Splitwise.SplitwiseMobile",
+      "b" : "Splitwise",
+      "c" : "NA"
+    },
+    "com_VoDrive" : {
+      "a" : "com.VoDrive",
+      "b" : "Vogo",
+      "c" : "INDIA"
+    },
+    "com_aed_droidvpn" : {
+      "a" : "com.aed.droidvpn",
+      "b" : "DroidVPN",
+      "c" : "Philippines"
+    },
+    "com_alibaba_aliexpresshd" : {
+      "a" : "com.alibaba.aliexpresshd",
+      "b" : "AliExpress",
+      "c" : "NA"
+    },
+    "com_amazon_avod_thirdpartyclient" : {
+      "a" : "com.amazon.avod.thirdpartyclient",
+      "b" : "Prime Video",
+      "c" : "US"
+    },
+    "com_amazon_kindle" : {
+      "a" : "com.amazon.kindle",
+      "b" : "Amazon Kindle",
+      "c" : "US"
+    },
+    "com_amazon_mp3" : {
+      "a" : "com.amazon.mp3",
+      "b" : "Amazon Music",
+      "c" : "US"
+    },
+    "com_android_browser" : {
+      "a" : "com.android.browser",
+      "b" : "Browser",
+      "c" : "NA"
+    },
+    "com_android_calendar" : {
+      "a" : "com.android.calendar",
+      "b" : "Calendar",
+      "c" : "NA"
+    },
+    "com_android_chrome" : {
+      "a" : "com.android.chrome",
+      "b" : "Chrome",
+      "c" : "NA"
+    },
+    "com_android_contacts" : {
+      "a" : "com.android.contacts",
+      "b" : "Contacts and dialer",
+      "c" : "NA"
+    },
+    "com_android_deskclock" : {
+      "a" : "com.android.deskclock",
+      "b" : "Clock",
+      "c" : "NA"
+    },
+    "com_android_email" : {
+      "a" : "com.android.email",
+      "b" : "Mail",
+      "c" : "NA"
+    },
+    "com_android_mms" : {
+      "a" : "com.android.mms",
+      "b" : "Messaging",
+      "c" : "NA"
+    },
+    "com_android_providers_downloads_ui" : {
+      "a" : "com.android.providers.downloads.ui",
+      "b" : "Downloads",
+      "c" : "NA"
+    },
+    "com_android_soundrecorder" : {
+      "a" : "com.android.soundrecorder",
+      "b" : "Recorder",
+      "c" : "NA"
+    },
+    "com_android_thememanager" : {
+      "a" : "com.android.thememanager",
+      "b" : "Themes",
+      "c" : "NA"
+    },
+    "com_android_vending" : {
+      "a" : "com.android.vending",
+      "b" : "Google Play Store",
+      "c" : "NA"
+    },
+    "com_appkitsdevelopers_AgeCalculator" : {
+      "appName" : "Smart Age Calculator",
+      "countryName" : "INDIA",
+      "packageName" : "com.appkitsdevelopers.AgeCalculator"
+    },
+    "com_application_zomato" : {
+      "a" : "com.application.zomato",
+      "b" : "Zomato",
+      "c" : "INDIA"
+    },
+    "com_applications_lifestyle" : {
+      "a" : "com.applications.lifestyle",
+      "b" : "Lifestyle",
+      "c" : "INDIA"
+    },
+    "com_applications_max" : {
+      "a" : "com.applications.max",
+      "b" : "Max Fashion",
+      "c" : "UAE"
+    },
+    "com_arthurivanets_reminder" : {
+      "a" : "com.arthurivanets.reminder",
+      "b" : "Reminder",
+      "c" : "NA"
+    },
+    "com_atlassian_android_jira_core" : {
+      "a" : "com.atlassian.android.jira.core",
+      "b" : "Jira",
+      "c" : "Sydney, Australia"
+    },
+    "com_atomyes" : {
+      "a" : "com.atomyes",
+      "b" : "YES Bank",
+      "c" : "NA"
+    },
+    "com_audible_application" : {
+      "a" : "com.audible.application",
+      "b" : "Audible",
+      "c" : "NA"
+    },
+    "com_audible_universal" : {
+      "a" : "com.audible.universal",
+      "b" : "Audible Suno",
+      "c" : "NA"
+    },
+    "com_b_lam_resplash" : {
+      "a" : "com.b_lam.resplash",
+      "b" : "Resplash",
+      "c" : "NA"
+    },
+    "com_balaji_alt" : {
+      "a" : "com.balaji.alt",
+      "b" : "ALTBalaji",
+      "c" : "NA"
+    },
+    "com_bewakoof_bewakoof" : {
+      "a" : "com.bewakoof.bewakoof",
+      "b" : "Bewakoof",
+      "c" : "NA"
+    },
+    "com_bigbasket_mobileapp" : {
+      "a" : "com.bigbasket.mobileapp",
+      "b" : "bigbasket",
+      "c" : "NA"
+    },
+    "com_blitwise_ptankshd" : {
+      "a" : "com.blitwise.ptankshd",
+      "b" : "Pocket Tanks",
+      "c" : "NA"
+    },
+    "com_blogspot_byterevapps_lollipopscreenrecorder" : {
+      "a" : "com.blogspot.byterevapps.lollipopscreenrecorder",
+      "b" : "ADV Screen Recorder",
+      "c" : "NA"
+    },
+    "com_britishcouncil_ieltsprep" : {
+      "a" : "com.britishcouncil.ieltsprep",
+      "b" : "IELTS Prep",
+      "c" : "NA"
+    },
+    "com_bt_bms" : {
+      "a" : "com.bt.bms",
+      "b" : "BookMyShow",
+      "c" : "NA"
+    },
+    "com_canarabank_mobility" : {
+      "a" : "com.canarabank.mobility",
+      "b" : "Canara Bank App",
+      "c" : "NA"
+    },
+    "com_chinaappsremover" : {
+      "a" : "com.chinaappsremover",
+      "b" : "Remove China Apps",
+      "c" : "NA"
+    },
+    "com_citizen_pocket_calculator" : {
+      "a" : "com.citizen.pocket.calculator",
+      "b" : "PocketCalculator",
+      "c" : "NA"
+    },
+    "com_citrix_Receiver" : {
+      "a" : "com.citrix.Receiver",
+      "b" : "Workspace",
+      "c" : "NA"
+    },
+    "com_citrus_citruspay" : {
+      "a" : "com.citrus.citruspay",
+      "b" : "LazyPay",
+      "c" : "NA"
+    },
+    "com_clickup_app" : {
+      "a" : "com.clickup.app",
+      "b" : "ClickUp",
+      "c" : "NA"
+    },
+    "com_coloros_gamespaceui" : {
+      "a" : "com.coloros.gamespaceui",
+      "b" : "Game Space",
+      "c" : "NA"
+    },
+    "com_coloros_onekeylockscreen" : {
+      "a" : "com.coloros.onekeylockscreen",
+      "b" : "One-Tap Lock Screen",
+      "c" : "NA"
+    },
+    "com_contextlogic_wish" : {
+      "a" : "com.contextlogic.wish",
+      "b" : "Wish",
+      "c" : "NA"
+    },
+    "com_cricbuzz_android" : {
+      "a" : "com.cricbuzz.android",
+      "b" : "Cricbuzz",
+      "c" : "NA"
+    },
+    "com_csam_icici_bank_imobile" : {
+      "a" : "com.csam.icici.bank.imobile",
+      "b" : "iMobile",
+      "c" : "NA"
+    },
+    "com_daamitt_walnut_app" : {
+      "a" : "com.daamitt.walnut.app",
+      "b" : "Walnut",
+      "c" : "NA"
+    },
+    "com_dbs_in_digitalbank" : {
+      "a" : "com.dbs.in.digitalbank",
+      "b" : "DBS India",
+      "c" : "NA"
+    },
+    "com_dictionary_hi" : {
+      "a" : "com.dictionary.hi",
+      "b" : "English Hindi Dictionary",
+      "c" : "NA"
+    },
+    "com_discord" : {
+      "a" : "com.discord",
+      "b" : "Discord",
+      "c" : "NA"
+    },
+    "com_disha_quickride" : {
+      "a" : "com.disha.quickride",
+      "b" : "Quick Ride",
+      "c" : "NA"
+    },
+    "com_dreamplug_androidapp" : {
+      "a" : "com.dreamplug.androidapp",
+      "b" : "CRED",
+      "c" : "NA"
+    },
+    "com_dropbox_android" : {
+      "appName" : "Dropbox",
+      "countryName" : "NA",
+      "packageName" : "com.dropbox.android"
+    },
+    "com_dunzo_user" : {
+      "a" : "com.dunzo.user",
+      "b" : "Dunzo",
+      "c" : "NA"
+    },
+    "com_dw_learngerman" : {
+      "a" : "com.dw.learngerman",
+      "b" : "DW Learn German",
+      "c" : "NA"
+    },
+    "com_edmi_android" : {
+      "a" : "com.edmi.android",
+      "b" : "EDMI",
+      "c" : "NA"
+    },
+    "com_example_connectedworker" : {
+      "appName" : "ConnectedWorker",
+      "countryName" : "NA",
+      "packageName" : "com.example.connectedworker"
+    },
+    "com_exicom_exicom_battery_swapping_solution_android" : {
+      "a" : "com.exicom.exicom_battery_swapping_solution_android",
+      "b" : "Smart Swap",
+      "c" : "NA"
+    },
+    "com_facebook_katana" : {
+      "a" : "com.facebook.katana",
+      "b" : "Facebook",
+      "c" : "NA"
+    },
+    "com_facebook_orca" : {
+      "a" : "com.facebook.orca",
+      "b" : "Messenger",
+      "c" : "NA"
+    },
+    "com_facemoji_lite_xiaomi" : {
+      "a" : "com.facemoji.lite.xiaomi",
+      "b" : "Facemoji Keyboard for Xiaomi",
+      "c" : "NA"
+    },
+    "com_finnable_customer" : {
+      "appName" : "Finnable Dev",
+      "countryName" : "NA",
+      "packageName" : "com.finnable.customer"
+    },
+    "com_finnable_ops" : {
+      "appName" : "Finnable OPS",
+      "countryName" : "NA",
+      "packageName" : "com.finnable.ops"
+    },
+    "com_finnable_sales" : {
+      "appName" : "Finnable Sales Channel",
+      "countryName" : "NA",
+      "packageName" : "com.finnable.sales"
+    },
+    "com_finnablesales" : {
+      "appName" : "Finnable - Partner Dev",
+      "countryName" : "NA",
+      "packageName" : "com.finnablesales"
+    },
+    "com_flipkart_android" : {
+      "a" : "com.flipkart.android",
+      "b" : "Flipkart",
+      "c" : "NA"
+    },
+    "com_freecharge_android" : {
+      "a" : "com.freecharge.android",
+      "b" : "Freecharge",
+      "c" : "NA"
+    },
+    "com_freshtohome_daily" : {
+      "a" : "com.freshtohome.daily",
+      "b" : "FTH Daily",
+      "c" : "NA"
+    },
+    "com_frustratedengineersversion_lottieanimationlist" : {
+      "appName" : "Lottie Animation List",
+      "countryName" : "NA",
+      "packageName" : "com.frustratedengineersversion.lottieanimationlist"
+    },
+    "com_fss_indus" : {
+      "a" : "com.fss.indus",
+      "b" : "IndusMobile",
+      "c" : "NA"
+    },
+    "com_fss_vijaya" : {
+      "a" : "com.fss.vijaya",
+      "b" : "V-Mobile",
+      "c" : "NA"
+    },
+    "com_ftw_and_co_happn" : {
+      "a" : "com.ftw_and_co.happn",
+      "b" : "happn",
+      "c" : "NA"
+    },
+    "com_gaana" : {
+      "a" : "com.gaana",
+      "b" : "Gaana",
+      "c" : "NA"
+    },
+    "com_glassdoor_app" : {
+      "a" : "com.glassdoor.app",
+      "b" : "Glassdoor",
+      "c" : "NA"
+    },
+    "com_goibibo" : {
+      "a" : "com.goibibo",
+      "b" : "Goibibo",
+      "c" : "NA"
+    },
+    "com_google_android_GoogleCamera" : {
+      "a" : "com.google.android.GoogleCamera",
+      "b" : "Camera",
+      "c" : "NA"
+    },
+    "com_google_android_accessibility_soundamplifier" : {
+      "a" : "com.google.android.accessibility.soundamplifier",
+      "b" : "Sound Amplifier",
+      "c" : "NA"
+    },
+    "com_google_android_apps_authenticator2" : {
+      "a" : "com.google.android.apps.authenticator2",
+      "b" : "Authenticator",
+      "c" : "NA"
+    },
+    "com_google_android_apps_books" : {
+      "a" : "com.google.android.apps.books",
+      "b" : "Google Play Books",
+      "c" : "NA"
+    },
+    "com_google_android_apps_chromecast_app" : {
+      "a" : "com.google.android.apps.chromecast.app",
+      "b" : "Home",
+      "c" : "NA"
+    },
+    "com_google_android_apps_docs" : {
+      "a" : "com.google.android.apps.docs",
+      "b" : "Drive",
+      "c" : "NA"
+    },
+    "com_google_android_apps_docs_editors_docs" : {
+      "a" : "com.google.android.apps.docs.editors.docs",
+      "b" : "Docs",
+      "c" : "NA"
+    },
+    "com_google_android_apps_docs_editors_sheets" : {
+      "a" : "com.google.android.apps.docs.editors.sheets",
+      "b" : "Sheets",
+      "c" : "NA"
+    },
+    "com_google_android_apps_docs_editors_slides" : {
+      "appName" : "Slides",
+      "countryName" : "NA",
+      "packageName" : "com.google.android.apps.docs.editors.slides"
+    },
+    "com_google_android_apps_enterprise_dmagent" : {
+      "appName" : "Device Policy",
+      "countryName" : "NA",
+      "packageName" : "com.google.android.apps.enterprise.dmagent"
+    },
+    "com_google_android_apps_inputmethod_hindi" : {
+      "a" : "com.google.android.apps.inputmethod.hindi",
+      "b" : "Google Indic Keyboard",
+      "c" : "NA"
+    },
+    "com_google_android_apps_magazines" : {
+      "a" : "com.google.android.apps.magazines",
+      "b" : "Google News",
+      "c" : "NA"
+    },
+    "com_google_android_apps_maps" : {
+      "a" : "com.google.android.apps.maps",
+      "b" : "Maps",
+      "c" : "NA"
+    },
+    "com_google_android_apps_meetings" : {
+      "a" : "com.google.android.apps.meetings",
+      "b" : "Meet",
+      "c" : "NA"
+    },
+    "com_google_android_apps_messaging" : {
+      "a" : "com.google.android.apps.messaging",
+      "b" : "Messages",
+      "c" : "NA"
+    },
+    "com_google_android_apps_mtaas_backdrop" : {
+      "a" : "com.google.android.apps.mtaas.backdrop",
+      "b" : "MTaaS Backdrop",
+      "c" : "NA"
+    },
+    "com_google_android_apps_mtaas_testloop" : {
+      "a" : "com.google.android.apps.mtaas.testloop",
+      "b" : "Test Loop",
+      "c" : "NA"
+    },
+    "com_google_android_apps_mtaas_tools" : {
+      "a" : "com.google.android.apps.mtaas.tools",
+      "b" : "MTaaS Tools",
+      "c" : "NA"
+    },
+    "com_google_android_apps_nbu_files" : {
+      "a" : "com.google.android.apps.nbu.files",
+      "b" : "Files",
+      "c" : "NA"
+    },
+    "com_google_android_apps_nbu_paisa_user" : {
+      "a" : "com.google.android.apps.nbu.paisa.user",
+      "b" : "Google Pay",
+      "c" : "NA"
+    },
+    "com_google_android_apps_paidtasks" : {
+      "a" : "com.google.android.apps.paidtasks",
+      "b" : "Google Opinion Rewards",
+      "c" : "NA"
+    },
+    "com_google_android_apps_photos" : {
+      "a" : "com.google.android.apps.photos",
+      "b" : "Photos",
+      "c" : "NA"
+    },
+    "com_google_android_apps_tachyon" : {
+      "a" : "com.google.android.apps.tachyon",
+      "b" : "Duo",
+      "c" : "NA"
+    },
+    "com_google_android_apps_translate" : {
+      "a" : "com.google.android.apps.translate",
+      "b" : "Translate",
+      "c" : "NA"
+    },
+    "com_google_android_apps_walletnfcrel" : {
+      "a" : "com.google.android.apps.walletnfcrel",
+      "b" : "Google Pay",
+      "c" : "NA"
+    },
+    "com_google_android_apps_wallpaper" : {
+      "appName" : "Wallpapers",
+      "countryName" : "NA",
+      "packageName" : "com.google.android.apps.wallpaper"
+    },
+    "com_google_android_apps_wearables_maestro_companion" : {
+      "a" : "com.google.android.apps.wearables.maestro.companion",
+      "b" : "Pixel Buds",
+      "c" : "NA"
+    },
+    "com_google_android_apps_youtube_music" : {
+      "a" : "com.google.android.apps.youtube.music",
+      "b" : "YouTube Music",
+      "c" : "NA"
+    },
+    "com_google_android_apps_youtube_vr" : {
+      "a" : "com.google.android.apps.youtube.vr",
+      "b" : "YouTube VR",
+      "c" : "NA"
+    },
+    "com_google_android_calculator" : {
+      "a" : "com.google.android.calculator",
+      "b" : "Calculator",
+      "c" : "NA"
+    },
+    "com_google_android_calendar" : {
+      "a" : "com.google.android.calendar",
+      "b" : "Calendar",
+      "c" : "NA"
+    },
+    "com_google_android_contacts" : {
+      "a" : "com.google.android.contacts",
+      "b" : "Contacts",
+      "c" : "NA"
+    },
+    "com_google_android_deskclock" : {
+      "a" : "com.google.android.deskclock",
+      "b" : "Clock",
+      "c" : "NA"
+    },
+    "com_google_android_dialer" : {
+      "a" : "com.google.android.dialer",
+      "b" : "Phone",
+      "c" : "NA"
+    },
+    "com_google_android_documentsui" : {
+      "a" : "com.google.android.documentsui",
+      "b" : "Files",
+      "c" : "NA"
+    },
+    "com_google_android_gm" : {
+      "a" : "com.google.android.gm",
+      "b" : "Gmail",
+      "c" : "NA"
+    },
+    "com_google_android_googlequicksearchbox" : {
+      "a" : "com.google.android.googlequicksearchbox",
+      "b" : "Google",
+      "c" : "NA"
+    },
+    "com_google_android_keep" : {
+      "a" : "com.google.android.keep",
+      "b" : "Keep Notes",
+      "c" : "NA"
+    },
+    "com_google_android_music" : {
+      "a" : "com.google.android.music",
+      "b" : "Google Play Music",
+      "c" : "NA"
+    },
+    "com_google_android_play_games" : {
+      "a" : "com.google.android.play.games",
+      "b" : "Google Play Games",
+      "c" : "NA"
+    },
+    "com_google_android_projection_gearhead" : {
+      "a" : "com.google.android.projection.gearhead",
+      "b" : "Android Auto",
+      "c" : "NA"
+    },
+    "com_google_android_talk" : {
+      "a" : "com.google.android.talk",
+      "b" : "Hangouts",
+      "c" : "NA"
+    },
+    "com_google_android_videos" : {
+      "a" : "com.google.android.videos",
+      "b" : "Google Play Movies",
+      "c" : "NA"
+    },
+    "com_google_android_vr_home" : {
+      "a" : "com.google.android.vr.home",
+      "b" : "Daydream",
+      "c" : "NA"
+    },
+    "com_google_android_youtube" : {
+      "a" : "com.google.android.youtube",
+      "b" : "YouTube",
+      "c" : "NA"
+    },
+    "com_google_ar_lens" : {
+      "a" : "com.google.ar.lens",
+      "b" : "Lens",
+      "c" : "NA"
+    },
+    "com_google_audio_hearing_visualization_accessibility_scribe" : {
+      "a" : "com.google.audio.hearing.visualization.accessibility.scribe",
+      "b" : "Live Transcribe",
+      "c" : "NA"
+    },
+    "com_grammarly_android_keyboard" : {
+      "a" : "com.grammarly.android.keyboard",
+      "b" : "Grammarly",
+      "c" : "NA"
+    },
+    "com_grofers_customerapp" : {
+      "a" : "com.grofers.customerapp",
+      "b" : "Grofers",
+      "c" : "NA"
+    },
+    "com_hathwayapp" : {
+      "a" : "com.hathwayapp",
+      "b" : "Hathway",
+      "c" : "NA"
+    },
+    "com_hcg_cok_gp" : {
+      "a" : "com.hcg.cok.gp",
+      "b" : "Clash of Kings",
+      "c" : "NA"
+    },
+    "com_hecorat_screenrecorder_free" : {
+      "a" : "com.hecorat.screenrecorder.free",
+      "b" : "AZ Screen Recorder",
+      "c" : "NA"
+    },
+    "com_heytap_browser" : {
+      "a" : "com.heytap.browser",
+      "b" : "Browser",
+      "c" : "NA"
+    },
+    "com_hummingwave_sksdktest" : {
+      "appName" : "SKSdkTest",
+      "countryName" : "NA",
+      "packageName" : "com.hummingwave.sksdktest"
+    },
+    "com_hummingwave_sksurvey" : {
+      "appName" : "SK Survey",
+      "countryName" : "NA",
+      "packageName" : "com.hummingwave.sksurvey"
+    },
+    "com_hummingwave_vcs" : {
+      "appName" : "Venice City Tour",
+      "countryName" : "NA",
+      "packageName" : "com.hummingwave.vcs"
+    },
+    "com_idfcbank_mobileBanking" : {
+      "a" : "com.idfcbank.mobileBanking",
+      "b" : "IDFC FIRST",
+      "c" : "NA"
+    },
+    "com_india_happyeasygo" : {
+      "a" : "com.india.happyeasygo",
+      "b" : "HappyEasyGo",
+      "c" : "NA"
+    },
+    "com_instagram_android" : {
+      "a" : "com.instagram.android",
+      "b" : "Instagram",
+      "c" : "NA"
+    },
+    "com_instagram_boomerang" : {
+      "a" : "com.instagram.boomerang",
+      "b" : "Boomerang",
+      "c" : "NA"
+    },
+    "com_intsig_camscanner" : {
+      "a" : "com.intsig.camscanner",
+      "b" : "CamScanner",
+      "c" : "NA"
+    },
+    "com_itsmysun_sitesurvey" : {
+      "appName" : "MYSUN Site Survey",
+      "countryName" : "NA",
+      "packageName" : "com.itsmysun.sitesurvey"
+    },
+    "com_jio_jioplay_tv" : {
+      "a" : "com.jio.jioplay.tv",
+      "b" : "JioTV",
+      "c" : "NA"
+    },
+    "com_jio_media_jiobeats" : {
+      "a" : "com.jio.media.jiobeats",
+      "b" : "JioSaavn",
+      "c" : "NA"
+    },
+    "com_jio_media_ondemand" : {
+      "a" : "com.jio.media.ondemand",
+      "b" : "JioCinema",
+      "c" : "NA"
+    },
+    "com_jio_myjio" : {
+      "a" : "com.jio.myjio",
+      "b" : "MyJio",
+      "c" : "NA"
+    },
+    "com_journaldev_daynightmode" : {
+      "appName" : "DayNightMode",
+      "countryName" : "NA",
+      "packageName" : "com.journaldev.daynightmode"
+    },
+    "com_joytunes_simplypiano" : {
+      "a" : "com.joytunes.simplypiano",
+      "b" : "SimplyPiano",
+      "c" : "NA"
+    },
+    "com_kauale_app_identifier" : {
+      "a" : "com.kauale.app_identifier",
+      "b" : "App Remover",
+      "c" : "NA"
+    },
+    "com_kauale_calculator" : {
+      "a" : "com.kauale.calculator",
+      "b" : "Smart Age Calculator",
+      "c" : "NA"
+    },
+    "com_kimcy929_screenrecorder" : {
+      "a" : "com.kimcy929.screenrecorder",
+      "b" : "Screen Recorder",
+      "c" : "NA"
+    },
+    "com_koushikdutta_vysor" : {
+      "a" : "com.koushikdutta.vysor",
+      "b" : "Vysor",
+      "c" : "NA"
+    },
+    "com_kryptofin" : {
+      "appName" : "Kryptofin",
+      "countryName" : "NA",
+      "packageName" : "com.kryptofin"
+    },
+    "com_lbe_parallel_intl" : {
+      "a" : "com.lbe.parallel.intl",
+      "b" : "Parallel Space",
+      "c" : "NA"
+    },
+    "com_lenovo_FileBrowser2" : {
+      "a" : "com.lenovo.FileBrowser2",
+      "b" : "File Manager",
+      "c" : "CHINA"
+    },
+    "com_lenskart_app" : {
+      "a" : "com.lenskart.app",
+      "b" : "Lenskart",
+      "c" : "NA"
+    },
+    "com_lge_email" : {
+      "a" : "com.lge.email",
+      "b" : "Email",
+      "c" : "NA"
+    },
+    "com_limsky_ramcleaner" : {
+      "a" : "com.limsky.ramcleaner",
+      "b" : "DU BATTERY SAVER",
+      "c" : "NA"
+    },
+    "com_linecorp_b612_android" : {
+      "a" : "com.linecorp.b612.android",
+      "b" : "B612",
+      "c" : "NA"
+    },
+    "com_linkedin_android" : {
+      "a" : "com.linkedin.android",
+      "b" : "LinkedIn",
+      "c" : "NA"
+    },
+    "com_locus_scientificcalculator" : {
+      "appName" : "Stellar Scientific Calculator",
+      "countryName" : "NA",
+      "packageName" : "com.locus.scientificcalculator"
+    },
+    "com_loopedlabs_escposprintservice" : {
+      "appName" : "ESC POS Print Service",
+      "countryName" : "NA",
+      "packageName" : "com.loopedlabs.escposprintservice"
+    },
+    "com_ludo_king" : {
+      "a" : "com.ludo.king",
+      "b" : "Ludo King",
+      "c" : "NA"
+    },
+    "com_magoosh_gre_quiz_vocabulary" : {
+      "a" : "com.magoosh.gre.quiz.vocabulary",
+      "b" : "Vocabulary Builder",
+      "c" : "NA"
+    },
+    "com_manorama_yearbook" : {
+      "appName" : "Manorama Yearbook",
+      "countryName" : "NA",
+      "packageName" : "com.manorama.yearbook"
+    },
+    "com_matteljv_uno" : {
+      "a" : "com.matteljv.uno",
+      "b" : "UNO",
+      "c" : "NA"
+    },
+    "com_medium_reader" : {
+      "a" : "com.medium.reader",
+      "b" : "Medium",
+      "c" : "NA"
+    },
+    "com_metrobikes_app" : {
+      "a" : "com.metrobikes.app",
+      "b" : "Bounce",
+      "c" : "NA"
+    },
+    "com_mi_android_globalFileexplorer" : {
+      "a" : "com.mi.android.globalFileexplorer",
+      "b" : "File Manager",
+      "c" : "NA"
+    },
+    "com_microsoft_office_excel" : {
+      "a" : "com.microsoft.office.excel",
+      "b" : "Excel",
+      "c" : "NA"
+    },
+    "com_microsoft_office_outlook" : {
+      "a" : "com.microsoft.office.outlook",
+      "b" : "Outlook",
+      "c" : "NA"
+    },
+    "com_microsoft_office_powerpoint" : {
+      "a" : "com.microsoft.office.powerpoint",
+      "b" : "PowerPoint",
+      "c" : "NA"
+    },
+    "com_microsoft_office_word" : {
+      "a" : "com.microsoft.office.word",
+      "b" : "Word",
+      "c" : "NA"
+    },
+    "com_miniclip_eightballpool" : {
+      "a" : "com.miniclip.eightballpool",
+      "b" : "8 Ball Pool",
+      "c" : "NA"
+    },
+    "com_mipay_wallet_in" : {
+      "a" : "com.mipay.wallet.in",
+      "b" : "Mi Pay",
+      "c" : "NA"
+    },
+    "com_miui_bugreport" : {
+      "a" : "com.miui.bugreport",
+      "b" : "Feedback",
+      "c" : "NA"
+    },
+    "com_miui_calculator" : {
+      "a" : "com.miui.calculator",
+      "b" : "Mi Calculator",
+      "c" : "NA"
+    },
+    "com_miui_compass" : {
+      "a" : "com.miui.compass",
+      "b" : "Compass",
+      "c" : "NA"
+    },
+    "com_miui_miservice" : {
+      "a" : "com.miui.miservice",
+      "b" : "Services & feedback",
+      "c" : "NA"
+    },
+    "com_miui_player" : {
+      "a" : "com.miui.player",
+      "b" : "Music",
+      "c" : "NA"
+    },
+    "com_miui_screenrecorder" : {
+      "a" : "com.miui.screenrecorder",
+      "b" : "Screen Recorder",
+      "c" : "NA"
+    },
+    "com_miui_securitycenter" : {
+      "a" : "com.miui.securitycenter",
+      "b" : "Security",
+      "c" : "NA"
+    },
+    "com_miui_videoplayer" : {
+      "a" : "com.miui.videoplayer",
+      "b" : "Mi Video",
+      "c" : "NA"
+    },
+    "com_miui_weather2" : {
+      "a" : "com.miui.weather2",
+      "b" : "Weather",
+      "c" : "NA"
+    },
+    "com_mobile_legends" : {
+      "a" : "com.mobile.legends",
+      "b" : "Mobile Legends: Bang Bang",
+      "c" : "NA"
+    },
+    "com_mojopizza" : {
+      "a" : "com.mojopizza",
+      "b" : "MojoPizza",
+      "c" : "NA"
+    },
+    "com_motorola_actions" : {
+      "a" : "com.motorola.actions",
+      "b" : "Moto Actions",
+      "c" : "NA"
+    },
+    "com_motorola_cameraone" : {
+      "appName" : "Camera",
+      "countryName" : "NA",
+      "packageName" : "com.motorola.cameraone"
+    },
+    "com_motorola_fmplayer" : {
+      "appName" : "FM Radio",
+      "countryName" : "NA",
+      "packageName" : "com.motorola.fmplayer"
+    },
+    "com_motorola_genie" : {
+      "appName" : "Device Help",
+      "countryName" : "NA",
+      "packageName" : "com.motorola.genie"
+    },
+    "com_mventus_selfcare_activity" : {
+      "a" : "com.mventus.selfcare.activity",
+      "b" : "MyVodafone",
+      "c" : "NA"
+    },
+    "com_mxtech_videoplayer_ad" : {
+      "a" : "com.mxtech.videoplayer.ad",
+      "b" : "MX Player",
+      "c" : "NA"
+    },
+    "com_myairtelapp" : {
+      "a" : "com.myairtelapp",
+      "b" : "Airtel",
+      "c" : "NA"
+    },
+    "com_mycaptain" : {
+      "a" : "com.mycaptain",
+      "b" : "MyCaptain",
+      "c" : "NA"
+    },
+    "com_myntra_android" : {
+      "a" : "com.myntra.android",
+      "b" : "Myntra",
+      "c" : "NA"
+    },
+    "com_netflix_mediaclient" : {
+      "a" : "com.netflix.mediaclient",
+      "b" : "Netflix",
+      "c" : "NA"
+    },
+    "com_niksoftware_snapseed" : {
+      "a" : "com.niksoftware.snapseed",
+      "b" : "Snapseed",
+      "c" : "NA"
+    },
+    "com_ninegag_android_app" : {
+      "a" : "com.ninegag.android.app",
+      "b" : "9GAG",
+      "c" : "NA"
+    },
+    "com_nis_app" : {
+      "a" : "com.nis.app",
+      "b" : "inshorts",
+      "c" : "NA"
+    },
+    "com_nobroker_app" : {
+      "a" : "com.nobroker.app",
+      "b" : "NoBroker",
+      "c" : "NA"
+    },
+    "com_oktested" : {
+      "a" : "com.oktested",
+      "b" : "OkTested",
+      "c" : "NA"
+    },
+    "com_olacabs_customer" : {
+      "a" : "com.olacabs.customer",
+      "b" : "Ola",
+      "c" : "NA"
+    },
+    "com_olx_southasia" : {
+      "a" : "com.olx.southasia",
+      "b" : "OLX India",
+      "c" : "NA"
+    },
+    "com_orangenose_tablefull" : {
+      "a" : "com.orangenose.tablefull",
+      "b" : "Ping Pong King",
+      "c" : "NA"
+    },
+    "com_oyo_consumer" : {
+      "a" : "com.oyo.consumer",
+      "b" : "OYO",
+      "c" : "NA"
+    },
+    "com_paypal_merchant_client" : {
+      "a" : "com.paypal.merchant.client",
+      "b" : "PayPal Business",
+      "c" : "NA"
+    },
+    "com_pearlacademy_pearl" : {
+      "a" : "com.pearlacademy.pearl",
+      "b" : "Pearl Academy",
+      "c" : "NA"
+    },
+    "com_pearlacademy_pearl_upes" : {
+      "appName" : "UPES",
+      "countryName" : "NA",
+      "packageName" : "com.pearlacademy.pearl.upes"
+    },
+    "com_phonepe_app" : {
+      "a" : "com.phonepe.app",
+      "b" : "PhonePe",
+      "c" : "NA"
+    },
+    "com_pierfrancescosoffritti_aytplayersample" : {
+      "appName" : "ayp API",
+      "countryName" : "NA",
+      "packageName" : "com.pierfrancescosoffritti.aytplayersample"
+    },
+    "com_pinterest" : {
+      "a" : "com.pinterest",
+      "b" : "Pinterest",
+      "c" : "NA"
+    },
+    "com_poncho" : {
+      "a" : "com.poncho",
+      "b" : "Box8",
+      "c" : "NA"
+    },
+    "com_priyadarshi_qrcode" : {
+      "appName" : "Qr code",
+      "countryName" : "NA",
+      "packageName" : "com.priyadarshi.qrcode"
+    },
+    "com_psiphon3_subscription" : {
+      "a" : "com.psiphon3.subscription",
+      "b" : "Psiphon Pro",
+      "c" : "NA"
+    },
+    "com_pushbullet_android" : {
+      "appName" : "Pushbullet",
+      "countryName" : "NA",
+      "packageName" : "com.pushbullet.android"
+    },
+    "com_quora_android" : {
+      "a" : "com.quora.android",
+      "b" : "Quora",
+      "c" : "NA"
+    },
+    "com_rapido_passenger" : {
+      "a" : "com.rapido.passenger",
+      "b" : "Rapido",
+      "c" : "NA"
+    },
+    "com_rblbank_upi" : {
+      "appName" : "BHIM RBL Pay",
+      "countryName" : "NA",
+      "packageName" : "com.rblbank.upi"
+    },
+    "com_readdle_spark" : {
+      "a" : "com.readdle.spark",
+      "b" : "Spark",
+      "c" : "NA"
+    },
+    "com_realmecomm_app" : {
+      "a" : "com.realmecomm.app",
+      "b" : "Community",
+      "c" : "NA"
+    },
+    "com_realmestore_app" : {
+      "a" : "com.realmestore.app",
+      "b" : "realme Store",
+      "c" : "NA"
+    },
+    "com_reddit_frontpage" : {
+      "a" : "com.reddit.frontpage",
+      "b" : "Reddit",
+      "c" : "NA"
+    },
+    "com_ryzmedia_tatasky" : {
+      "a" : "com.ryzmedia.tatasky",
+      "b" : "Tata Sky",
+      "c" : "NA"
+    },
+    "com_sabkadentist_clearaligners" : {
+      "appName" : "Sabka Dentist",
+      "countryName" : "NA",
+      "packageName" : "com.sabkadentist.clearaligners"
+    },
+    "com_samsung_android_app_notes" : {
+      "a" : "com.samsung.android.app.notes",
+      "b" : "Samsung Notes",
+      "c" : "NA"
+    },
+    "com_samsung_android_app_watchmanager" : {
+      "a" : "com.samsung.android.app.watchmanager",
+      "b" : "Samsung Gear",
+      "c" : "NA"
+    },
+    "com_samsung_android_oneconnect" : {
+      "a" : "com.samsung.android.oneconnect",
+      "b" : "SmartThings",
+      "c" : "NA"
+    },
+    "com_samsung_android_spay" : {
+      "a" : "com.samsung.android.spay",
+      "b" : "Samsung Pay",
+      "c" : "NA"
+    },
+    "com_samsung_oh" : {
+      "a" : "com.samsung.oh",
+      "b" : "Samsung+",
+      "c" : "NA"
+    },
+    "com_sbi_SBIFreedomPlus" : {
+      "a" : "com.sbi.SBIFreedomPlus",
+      "b" : "Yono Lite SBI",
+      "c" : "NA"
+    },
+    "com_sebibin_simpledatecalculator" : {
+      "a" : "com.sebibin.simpledatecalculator",
+      "b" : "Simple Date Calculator",
+      "c" : "NA"
+    },
+    "com_sec_android_app_popupcalculator" : {
+      "a" : "com.sec.android.app.popupcalculator",
+      "b" : "Calculator",
+      "c" : "NA"
+    },
+    "com_sec_android_easyMover" : {
+      "a" : "com.sec.android.easyMover",
+      "b" : "Smart Switch",
+      "c" : "NA"
+    },
+    "com_seshadri_padmaja_expense" : {
+      "a" : "com.seshadri.padmaja.expense",
+      "b" : "Day To Day Expenses",
+      "c" : "NA"
+    },
+    "com_simpl_android" : {
+      "a" : "com.simpl.android",
+      "b" : "Simpl",
+      "c" : "NA"
+    },
+    "com_simplify360_livechat" : {
+      "a" : "com.simplify360.livechat",
+      "b" : "Simplify360",
+      "c" : "NA"
+    },
+    "com_skype_m2" : {
+      "a" : "com.skype.m2",
+      "b" : "Skype Lite",
+      "c" : "NA"
+    },
+    "com_smartkarrot_sktesting" : {
+      "appName" : "SK Testing Shell App",
+      "countryName" : "NA",
+      "packageName" : "com.smartkarrot.sktesting"
+    },
+    "com_sonelli_juicessh" : {
+      "a" : "com.sonelli.juicessh",
+      "b" : "JuiceSSH",
+      "c" : "NA"
+    },
+    "com_sonyliv" : {
+      "a" : "com.sonyliv",
+      "b" : "SonyLIV",
+      "c" : "NA"
+    },
+    "com_sonymobile_entrance" : {
+      "a" : "com.sonymobile.entrance",
+      "b" : "What's New",
+      "c" : "NA"
+    },
+    "com_sonymobile_xperiaweather" : {
+      "a" : "com.sonymobile.xperiaweather",
+      "b" : "Weather",
+      "c" : "NA"
+    },
+    "com_splendapps_splendo" : {
+      "a" : "com.splendapps.splendo",
+      "b" : "To Do List",
+      "c" : "NA"
+    },
+    "com_spotify_music" : {
+      "a" : "com.spotify.music",
+      "b" : "Spotify",
+      "c" : "NA"
+    },
+    "com_steelmint_steelmint_android" : {
+      "a" : "com.steelmint.steelmint_android",
+      "b" : "SteelMint",
+      "c" : "NA"
+    },
+    "com_supercell_clashroyale" : {
+      "a" : "com.supercell.clashroyale",
+      "b" : "Clash Royale",
+      "c" : "NA"
+    },
+    "com_tcs_android_tcsappstore" : {
+      "a" : "com.tcs.android.tcsappstore",
+      "b" : "Ux Apps",
+      "c" : "NA"
+    },
+    "com_tcs_ipms" : {
+      "a" : "com.tcs.ipms",
+      "b" : "Timesheet",
+      "c" : "NA"
+    },
+    "com_tcs_totp" : {
+      "a" : "com.tcs.totp",
+      "b" : "Authenticator",
+      "c" : "NA"
+    },
+    "com_ted_android" : {
+      "a" : "com.ted.android",
+      "b" : "TED",
+      "c" : "NA"
+    },
+    "com_thepattern_app" : {
+      "a" : "com.thepattern.app",
+      "b" : "The Pattern",
+      "c" : "NA"
+    },
+    "com_toggl_giskard" : {
+      "a" : "com.toggl.giskard",
+      "b" : "Toggl",
+      "c" : "NA"
+    },
+    "com_traintimetable_bangalorenammametro" : {
+      "a" : "com.traintimetable.bangalorenammametro",
+      "b" : "Bangalore Metro",
+      "c" : "NA"
+    },
+    "com_truecaller" : {
+      "a" : "com.truecaller",
+      "b" : "Truecaller",
+      "c" : "NA"
+    },
+    "com_trustingsocial_finnable" : {
+      "appName" : "TrustVision.Alpha.Fin",
+      "countryName" : "NA",
+      "packageName" : "com.trustingsocial.finnable"
+    },
+    "com_tv_v18_viola" : {
+      "a" : "com.tv.v18.viola",
+      "b" : "Voot",
+      "c" : "NA"
+    },
+    "com_twitter_android" : {
+      "a" : "com.twitter.android",
+      "b" : "Twitter",
+      "c" : "NA"
+    },
+    "com_ubercab" : {
+      "a" : "com.ubercab",
+      "b" : "Uber",
+      "c" : "NA"
+    },
+    "com_uc_vmate" : {
+      "a" : "com.uc.vmate",
+      "b" : "VMate",
+      "c" : "NA"
+    },
+    "com_udemy_android" : {
+      "a" : "com.udemy.android",
+      "b" : "Udemy",
+      "c" : "NA"
+    },
+    "com_urbanclap_urbanclap" : {
+      "a" : "com.urbanclap.urbanclap",
+      "b" : "Urban Company",
+      "c" : "NA"
+    },
+    "com_utorrent_client" : {
+      "a" : "com.utorrent.client",
+      "b" : "µTorrent",
+      "c" : "NA"
+    },
+    "com_vijayabank_passbook" : {
+      "a" : "com.vijayabank.passbook",
+      "b" : "V ePassBook+",
+      "c" : "NA"
+    },
+    "com_whatsapp" : {
+      "a" : "com.whatsapp",
+      "b" : "WhatsApp",
+      "c" : "NA"
+    },
+    "com_whatsapp_w4b" : {
+      "a" : "com.whatsapp.w4b",
+      "b" : "WhatsApp Business",
+      "c" : "NA"
+    },
+    "com_whereismytrain_android" : {
+      "a" : "com.whereismytrain.android",
+      "b" : "Where is my Train",
+      "c" : "NA"
+    },
+    "com_xiaomi_hm_health" : {
+      "a" : "com.xiaomi.hm.health",
+      "b" : "Mi Fit",
+      "c" : "NA"
+    },
+    "com_xiaomi_midrop" : {
+      "a" : "com.xiaomi.midrop",
+      "b" : "ShareMe",
+      "c" : "NA"
+    },
+    "com_xiaomi_mipicks" : {
+      "a" : "com.xiaomi.mipicks",
+      "b" : "GetApps",
+      "c" : "NA"
+    },
+    "com_xiaomi_scanner" : {
+      "a" : "com.xiaomi.scanner",
+      "b" : "Scanner",
+      "c" : "NA"
+    },
+    "com_yottagames_mafiawar" : {
+      "a" : "com.yottagames.mafiawar",
+      "b" : "Mafia City",
+      "c" : "NA"
+    },
+    "com_youdao_hindict" : {
+      "a" : "com.youdao.hindict",
+      "b" : "U-Dictionary",
+      "c" : "NA"
+    },
+    "com_zerone_upi" : {
+      "a" : "com.zerone.upi",
+      "b" : "ZUP",
+      "c" : "NA"
+    },
+    "com_zzkko" : {
+      "a" : "com.zzkko",
+      "b" : "SHEIN",
+      "c" : "NA"
+    },
+    "cris_icms_ntes" : {
+      "a" : "cris.icms.ntes",
+      "b" : "NTES",
+      "c" : "NA"
+    },
+    "cris_org_in_prs_ima" : {
+      "a" : "cris.org.in.prs.ima",
+      "b" : "IRCTC Rail Connect",
+      "c" : "NA"
+    },
+    "eve_idfy_sandbox" : {
+      "appName" : "EVE's Demo",
+      "countryName" : "NA",
+      "packageName" : "eve.idfy.sandbox"
+    },
+    "forfend_net_connectedbikes" : {
+      "appName" : "GBIT",
+      "countryName" : "NA",
+      "packageName" : "forfend.net.connectedbikes"
+    },
+    "free_programming_programming" : {
+      "a" : "free.programming.programming",
+      "b" : "GeeksforGeeks",
+      "c" : "NA"
+    },
+    "free_vpn_unblock_proxy_turbovpn" : {
+      "a" : "free.vpn.unblock.proxy.turbovpn",
+      "b" : "Turbo VPN",
+      "c" : "NA"
+    },
+    "helium_wordoftheday_learnenglish_vocab" : {
+      "a" : "helium.wordoftheday.learnenglish.vocab",
+      "b" : "Word of the Day",
+      "c" : "NA"
+    },
+    "in_ac_upes" : {
+      "a" : "in.ac.upes",
+      "b" : "UPES",
+      "c" : "NA"
+    },
+    "in_amazon_mShop_android_shopping" : {
+      "a" : "in.amazon.mShop.android.shopping",
+      "b" : "Amazon",
+      "c" : "NA"
+    },
+    "in_cashify_exchange_oppo" : {
+      "a" : "in.cashify.exchange.oppo",
+      "b" : "OPPO Upgrade",
+      "c" : "NA"
+    },
+    "in_cashify_exchange_vivo" : {
+      "a" : "in.cashify.exchange.vivo",
+      "b" : "Vivo Upgrade",
+      "c" : "NA"
+    },
+    "in_dekho_search_movies_tvshows" : {
+      "a" : "in.dekho.search.movies.tvshows",
+      "b" : "Dekho",
+      "c" : "NA"
+    },
+    "in_org_npci_upiapp" : {
+      "a" : "in.org.npci.upiapp",
+      "b" : "BHIM",
+      "c" : "NA"
+    },
+    "in_redbus_android" : {
+      "a" : "in.redbus.android",
+      "b" : "redBus",
+      "c" : "NA"
+    },
+    "in_shipx_lastmiledelivery_delex" : {
+      "appName" : "Driver App",
+      "countryName" : "NA",
+      "packageName" : "in.shipx.lastmiledelivery.delex"
+    },
+    "in_shipx_lastmiledelivery_local" : {
+      "appName" : "Driver App",
+      "countryName" : "NA",
+      "packageName" : "in.shipx.lastmiledelivery.local"
+    },
+    "in_shipx_lastmiledelivery_shipx_staging" : {
+      "appName" : "Driver App",
+      "countryName" : "NA",
+      "packageName" : "in.shipx.lastmiledelivery.shipx.staging"
+    },
+    "in_shipx_lastmiledelivery_shipx_testing1" : {
+      "appName" : "Last Mile Delivery",
+      "countryName" : "NA",
+      "packageName" : "in.shipx.lastmiledelivery.shipx.testing1"
+    },
+    "in_startv_hotstar" : {
+      "a" : "in.startv.hotstar",
+      "b" : "Hotstar",
+      "c" : "NA"
+    },
+    "in_swiggy_android" : {
+      "a" : "in.swiggy.android",
+      "b" : "Swiggy",
+      "c" : "NA"
+    },
+    "in_tickertape" : {
+      "a" : "in.tickertape",
+      "b" : "Tickertape",
+      "c" : "NA"
+    },
+    "in_upstox_pro" : {
+      "a" : "in.upstox.pro",
+      "b" : "Upstox Pro",
+      "c" : "NA"
+    },
+    "in_yourquote_app" : {
+      "a" : "in.yourquote.app",
+      "b" : "YourQuote",
+      "c" : "NA"
+    },
+    "in_zeta_android" : {
+      "a" : "in.zeta.android",
+      "b" : "Zeta",
+      "c" : "NA"
+    },
+    "instake_repost_instagramphotodownloader_instagramvideodownloader" : {
+      "a" : "instake.repost.instagramphotodownloader.instagramvideodownloader",
+      "b" : "InsTake Downloader",
+      "c" : "NA"
+    },
+    "io_appium_settings" : {
+      "appName" : "Appium Settings",
+      "countryName" : "NA",
+      "packageName" : "io.appium.settings"
+    },
+    "io_appium_unlock" : {
+      "appName" : "Unlock",
+      "countryName" : "NA",
+      "packageName" : "io.appium.unlock"
+    },
+    "io_crash_air" : {
+      "appName" : "Beta",
+      "countryName" : "NA",
+      "packageName" : "io.crash.air"
+    },
+    "isticker_stickermaker_createsticker_stickersforwhatsapp" : {
+      "a" : "isticker.stickermaker.createsticker.stickersforwhatsapp",
+      "b" : "iSticker",
+      "c" : "NA"
+    },
+    "mathieumaree_rippple" : {
+      "a" : "mathieumaree.rippple",
+      "b" : "Dribbble",
+      "c" : "NA"
+    },
+    "mega_privacy_android_app" : {
+      "a" : "mega.privacy.android.app",
+      "b" : "MEGA",
+      "c" : "NA"
+    },
+    "mobi_infolife_uninstaller" : {
+      "a" : "mobi.infolife.uninstaller",
+      "b" : "Easy Uninstaller",
+      "c" : "NA"
+    },
+    "naukriApp_appModules_login" : {
+      "a" : "naukriApp.appModules.login",
+      "b" : "Naukri.com",
+      "c" : "NA"
+    },
+    "net_one97_paytm" : {
+      "a" : "net.one97.paytm",
+      "b" : "Paytm",
+      "c" : "NA"
+    },
+    "net_torguard_openvpn_client" : {
+      "a" : "net.torguard.openvpn.client",
+      "b" : "TorGuard",
+      "c" : "NA"
+    },
+    "nic_goi_aarogyasetu" : {
+      "a" : "nic.goi.aarogyasetu",
+      "b" : "Aarogya Setu",
+      "c" : "NA"
+    },
+    "openchat_directchat_clicktochat_directmessage" : {
+      "a" : "openchat.directchat.clicktochat.directmessage",
+      "b" : "Open Chat",
+      "c" : "NA"
+    },
+    "org_arcon_pam_otp" : {
+      "a" : "org.arcon.pam.otp",
+      "b" : "Authenticator",
+      "c" : "NA"
+    },
+    "org_chromium_webapk_a59a2c15c3031c401" : {
+      "a" : "org.chromium.webapk.a59a2c15c3031c401",
+      "b" : "Android Developers",
+      "c" : "NA"
+    },
+    "org_mavlink_qgroundcontrol" : {
+      "a" : "org.mavlink.qgroundcontrol",
+      "b" : "QGroundControl",
+      "c" : "NA"
+    },
+    "org_mozilla_firefox" : {
+      "a" : "org.mozilla.firefox",
+      "b" : "Firefox",
+      "c" : "NA"
+    },
+    "org_nammabnp_bnpapp" : {
+      "appName" : "Namma BNP",
+      "countryName" : "NA",
+      "packageName" : "org.nammabnp.bnpapp"
+    },
+    "org_telegram_messenger" : {
+      "a" : "org.telegram.messenger",
+      "b" : "Telegram",
+      "c" : "NA"
+    },
+    "org_thoughtcrime_securesms" : {
+      "a" : "org.thoughtcrime.securesms",
+      "b" : "Signal",
+      "c" : "NA"
+    },
+    "org_videolan_vlc" : {
+      "a" : "org.videolan.vlc",
+      "b" : "VLC",
+      "c" : "NA"
+    },
+    "org_zwanoo_android_speedtest" : {
+      "a" : "org.zwanoo.android.speedtest",
+      "b" : "Speedtest",
+      "c" : "NA"
+    },
+    "screenrecorder_recorder_editor" : {
+      "appName" : "V Recorder",
+      "countryName" : "NA",
+      "packageName" : "screenrecorder.recorder.editor"
+    },
+    "simple_app_remover" : {
+      "a" : "simple.app.remover",
+      "b" : "Apps Remover - Delete Apps",
+      "c" : "NA"
+    },
+    "sk_styk_martin_apkanalyzer" : {
+      "appName" : "Apk Analyzer",
+      "countryName" : "NA",
+      "packageName" : "sk.styk.martin.apkanalyzer"
+    },
+    "to_go" : {
+      "a" : "to.go",
+      "b" : "Flock",
+      "c" : "NA"
+    },
+    "turbo_client" : {
+      "a" : "turbo.client",
+      "b" : "Turbo Client",
+      "c" : "NA"
+    },
+    "uk_co_bbc_learningenglish" : {
+      "a" : "uk.co.bbc.learningenglish",
+      "b" : "BBC Learning English",
+      "c" : "NA"
+    },
+    "us_zoom_videomeetings" : {
+      "a" : "us.zoom.videomeetings",
+      "b" : "Zoom",
+      "c" : "NA"
+    },
+    "vsin_t16_funny_photo" : {
+      "a" : "vsin.t16_funny_photo",
+      "b" : "Photo Lab",
+      "c" : "NA"
+    }
+  }
+}
